@@ -10,6 +10,9 @@ This repository contains 2 python code files:
         1. process the input L2 data; 
         2. create L3L and L3W; and 
         3. save them to netcdf
+        
+The file `example_read_and_plot_MOPITT_L3L.pynb` is a notebook that demonstrates reading an L3L file using `xarray` and plotting with `cartopy`
+
   
 ## Requirements
 - Python packages required: numpy, h5py, netCDF4
